@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # truthtable.py - A Python module to print truth tables
 #
 # SPDX-FileCopyrightText: 2020 Dr.-Ing. Jens Hannemann <j.hannemann@ieee.org>
